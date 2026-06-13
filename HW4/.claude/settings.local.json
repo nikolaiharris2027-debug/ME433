@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cmake -DPICO_BOARD=pico2_w .)",
+      "Bash(/Users/nikolaiwagnerharris/.pico-sdk/ninja/v1.12.1/ninja)"
+    ]
+  }
+}
